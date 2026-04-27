@@ -1,4 +1,7 @@
 AES.py
 *.pdf
 .venv
-*.ipynb
+notebooks
+doc
+img
+__pycache__
